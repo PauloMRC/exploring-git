@@ -13,7 +13,3 @@ Instruction 4
 Instruction 5
 
 Instruction 6
-
-Instruction 7
-
-Instruction 8
