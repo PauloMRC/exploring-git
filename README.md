@@ -1,2 +1,11 @@
 # exploring-git
-Something to show how to use git and github.
+
+## How to use this repository
+
+Instruction 1
+
+Instruction 2
+
+Instruction 3
+
+Instruction 4
